@@ -7,6 +7,9 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "engines": {
+    "node": "12.18.4"
+  },
   "dependencies": {
     "graphql": "^16.0.1",
     "graphql-request": "^3.6.1",
